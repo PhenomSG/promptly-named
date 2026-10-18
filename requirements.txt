@@ -1,0 +1,5 @@
+pyarrow
+pandas
+numpy
+ipykernel
+kagglehub
