@@ -5,7 +5,7 @@ __pycache__/
 ok.ipynb
 # C extensions
 *.so
-
+*_*.py
 # Distribution / packaging
 .Python
 build/
